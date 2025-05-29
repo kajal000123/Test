@@ -1,3 +1,5 @@
+<img src = "photo_2024-12-30_00-40-26.jpg" />
+
 # machine learning
 # 👋 Hi, I'm Kajal
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
