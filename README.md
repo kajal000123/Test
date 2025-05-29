@@ -1,4 +1,4 @@
-<img src = "photo_2024-12-30_00-40-26.jpg" />
+<img src = "WhatsApp Image 2025-05-29 at 12.52.43 PM.jpeg" />
 
 # machine learning
 # 👋 Hi, I'm Kajal
